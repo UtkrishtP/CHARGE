@@ -1,0 +1,6 @@
+[submodule "torch"]
+	path = torch
+	url = git@github.com:UtkrishtP/torch_repo.git
+[submodule "dgl"]
+	path = dgl
+	url = git@github.com:UtkrishtP/dgl_repo.git
